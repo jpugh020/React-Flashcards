@@ -1,5 +1,6 @@
 # Purpose
 This project is part of the CodeAcademy "Build an advanced web app with React and Redux" course. It was a fun project that helped cement my understanding of state managament using Redux. 
+
 ---
 ## Project Highlights
 - Project utilizes Redux for state management by creating a store *(configureStore() - reduxjs/toolkit)*
